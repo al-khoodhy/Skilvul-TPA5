@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "anonymous3",
+    "password": "abdurrahman",
+    "database": "skilvul3",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "anonymous3",
+    "password": "abdurrahman",
+    "database": "skilvul3",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "anonymous3",
+    "password": "abdurrahman",
+    "database": "skilvul3",
+    "host": "db4free.net",
+    "dialect": "mysql"
+  }
+}
